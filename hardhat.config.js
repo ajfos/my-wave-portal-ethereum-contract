@@ -5,7 +5,7 @@ module.exports = {
   networks: {
     rinkeby: {
       url: 'get this from alchemy',
-      accounts: ['ethereum private key'],
+      accounts: ['ethereum private key do not commit'],
     },
   },
 };
